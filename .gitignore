@@ -1,0 +1,4 @@
+# 项目排除路径
+/io_demo/target/
+/out/
+/rmi_client/target/
